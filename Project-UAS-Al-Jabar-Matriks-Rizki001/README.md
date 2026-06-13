@@ -13,3 +13,4 @@ Project berupa module Python bernama `rizki001.py` yang berisi fungsi untuk meng
 Seluruh proses perhitungan dilakukan secara manual menggunakan algoritma aljabar matriks.
 
 ## Link Youtube
+https://youtu.be/N-9vkz3C8jI?si=PSjNj0uy4qABE8aC
